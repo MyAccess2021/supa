@@ -1,3 +1,4 @@
+```bash
 # Usage
 #   Start:              docker compose up
 #   With helpers:       docker compose -f docker-compose.yml -f ./dev/docker-compose.dev.yml up
@@ -408,3 +409,4 @@ services:
 
 volumes:
   db-config:
+```
